@@ -1,0 +1,1 @@
+{"container_overrides": {"command": ["--module_name", "rnaseqc", "--run_arguments", "s3://hubseq-data/test/modules/rnaseqc/job/rnaseqc.test.io.json", "--working_dir", "/home/"]}, "jobqueue": "batch_scratch_queue", "jobname": "job_rnaseqc_test"}

@@ -1,0 +1,1 @@
+{"input": ["s3://hubtenants/test/rnaseq/run_test1/rnastar/rnastar_test_tiny1.Aligned.sortedByCoord.out.bam"], "output": ["s3://hubtenants/test/rnaseq/run_test1/rnaseqc/"], "alternate_inputs": ["s3://hubgenomes/genomes/mm10/mm10.canonical.collapsed.GENCODE.gtf"], "alternate_outputs": [], "program_arguments": "", "sample_id": "rnaseqc_test"}
